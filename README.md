@@ -5,3 +5,4 @@ This repository contains the Jupyter Notebook submission for **Problem Set 1** o
 
 ## 📂 Contents  
 - `PSet1.ipynb` – Jupyter Notebook with code & analysis
+- `PSet1.ipynb`
