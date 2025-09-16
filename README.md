@@ -6,3 +6,4 @@ This repository contains the Jupyter Notebook submission for **Problem Set** of 
 ## 📂 Contents  
 - `PSet1.ipynb` – Jupyter Notebook with code & analysis
 - `PSet2.ipynb`
+- `PSet3.ipynb`
