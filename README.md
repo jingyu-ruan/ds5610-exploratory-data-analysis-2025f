@@ -7,3 +7,4 @@ This repository contains the Jupyter Notebook submission for **Problem Set** of 
 - `PSet1.ipynb` – Jupyter Notebook with code & analysis
 - `PSet2.ipynb`
 - `PSet3.ipynb`
+- `PSet4.ipynb`
